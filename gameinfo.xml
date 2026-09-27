@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Egoboo.sh</path>
+    <name>Egoboo</name>
+    <desc>A cartoon-styled 3D action RPG dungeon crawler with fast hack-and-slash combat, dual-wielded weapons, and heavy Diablo-style loot. Dozens of bundled dungeon modules, from short romps to full campaigns, playable solo or in local co-op.</desc>
+    <releasedate>20101223T000000</releasedate>
+    <developer>The Egoboo Team</developer>
+    <publisher>Open Source</publisher>
+    <genre>Action RPG</genre>
+    <image>./egoboo/screenshot.png</image>
+  </game>
+</gameList>
